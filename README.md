@@ -4,4 +4,4 @@ This recource makes you add custom markers for fivem.
 
 Preview: 
 
-https://i.postimg.cc/4dqfGQRf/Ds-Studio-custom-markers.jpg
+<a href='https://postimg.cc/wy58cJBZ' target='_blank'><img src='https://i.postimg.cc/wy58cJBZ/Ds-Studio-custom-markers.jpg' border='0' alt='Ds-Studio-custom-markers'/></a>
