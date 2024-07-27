@@ -1,6 +1,6 @@
 This recource makes you add custom markers for fivem.
 
--- Credits for orgenal post: Konar
+-- Credits for original post: Konar
 
 Preview: 
 
